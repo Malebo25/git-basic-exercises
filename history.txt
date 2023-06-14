@@ -1,0 +1,1000 @@
+   32  sudo -u postgres createdb mango_market;
+   33  sudo -u postgres psql;
+   34  create role codex login password 'codex123';
+   35  npm test
+   36  git init
+   37  git add .
+   38  git commit -m "update"
+   39  git config --global user.email "you@example.com"
+   40  git config --global user.email "linamandlajojwana96@gmail.com"
+   41  git remote add origin https://github.com/linamandla96/data_usage_tracker_app
+   42  git add .
+   43  git commit -m "update changes"
+   44  git push origin ,aster
+   45  git push origin master
+   46  git push origin main
+   47  git remote -v
+   48  git push origin main
+   49  git status
+   50  git add .
+   51  git commit -m "update changes"
+   52  git push origin main
+   53  clear
+   54  cd ..
+   55  clear
+   56  git clone https://github.com/linamandla96/mango_market
+   57  cd mango_market
+   58  code .
+   59  npm install
+   60  npm index.js
+   61  npm install  nodemon
+   62  npm install --save body-parser
+   63  nodemon index,js
+   64  nodemon index.js
+   65  nodemon 
+   66  npm install -g nodemon 
+   67  cd ..
+   68  npm install -g nodemon 
+   69  sudo npm  install -g nodemon
+   70  cd mango_market
+   71  nodemon
+   72  npm install --save express-session
+   73  nodemon
+   74  git add .
+   75  git commit -m "update"
+   76  git push origin main
+   77  cd pronject
+   78  cd project
+   79  cd data_usage_tracker_app
+   80  psql -d data_usage_tracker_test
+   81  sudo -u postgres psql;
+   82  psql -d data_usage_tracker_test
+   83  sudo -u postgres createdb data_usage_tracker_test;
+   84  history
+   85  sudo -u postgres psql;
+   86  psql -d data_usage_tracker_test
+   87  sudo -u postgres psql;
+   88  psql -d data_usage_tracker_test
+   89  ./sudoku.js
+   90  node -v
+   91  node sudoku.js 
+   92  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   93  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   94  sudo apt -f install
+   95  sudo apt install google-chrome-stable
+   96  ls
+   97  apt-get install git
+   98  pwd
+   99  ls
+  100  mkdir the_terminal
+  101  ls
+  102  cd the_terminal
+  103  pwd
+  104  ls
+  105  touch my_file.txt
+  106  pwd
+  107  nano my_file.txt
+  108  cat my_file.txt 
+  109  nano my_file.txt
+  110  mkdir projects
+  111  cd temp
+  112  pwd
+  113  cd
+  114  pwd
+  115  mkdir projects
+  116  pwd
+  117  ls
+  118  pwd
+  119  cd
+  120  pwd
+  121  cd
+  122  mkdir temp
+  123  cd
+  124  pwd
+  125  mkdir/temp/stuff
+  126  pwd
+  127  cd
+  128  mkdir temp
+  129  mkdir temp/stuff
+  130  mkdir temp/stuff/things
+  131  mkdir -p temp/stuff/things/orange/apple/pear/grape
+  132  mkdir "I have fun"
+  133  temp
+  134  cd
+  135  cd temp
+  136  pwd
+  137  cd stuff
+  138  pwd
+  139  cd things
+  140  pwd
+  141  cd orange
+  142  pwd
+  143  cd orange
+  144  pwd
+  145  cd apple
+  146  pwd
+  147  cd pear
+  148  pwd
+  149  cd
+  150  pwd
+  151  cd ..
+  152  cd..
+  153  cd ..
+  154  cd pear
+  155  ls
+  156  cd
+  157  cd temp/stuff/things/orange/apple/pear/grape/
+  158  cd ..
+  159  pwd
+  160  cd pear
+  161  cd ..
+  162  cd pear/
+  163  pwd
+  164  cd ..
+  165  pwd
+  166  cd../../..
+  167  cd ../../..
+  168  pwd
+  169  cd temp/stuff/things/orange/apple/pear/grape/
+  170  pwd
+  171  cd ../../../../../../../
+  172  pwd
+  173  cd apple
+  174  cd temp
+  175  cd apple
+  176  cd
+  177  pwd
+  178  cd temp
+  179  ls
+  180  cd stuff
+  181  ls
+  182  cd things
+  183  ls
+  184  cd temp
+  185  cd
+  186  cd temp
+  187  ls
+  188  cd stuff/things/orange/apple/pear/grape/
+  189  cd ..
+  190  rmdir grape
+  191  cd ..
+  192  rmdir pear
+  193  cd ..
+  194  ls
+  195  rmdir apple
+  196  cd ..
+  197  ls
+  198  rmdir orange
+  199  cd ..
+  200  ls things 
+  201  rmdir things
+  202  cd ..
+  203  ls
+  204  rmdir stuff
+  205  pwd
+  206  cd temp
+  207  cd tempt
+  208  mkdir -p i/like/icecream
+  209  pushd i/like/icecream/
+  210  popd
+  211  pwd
+  212  pushd i/like
+  213  pwd
+  214  pushd icecream
+  215  pwd
+  216  popd
+  217  pwd
+  218  popd
+  219  pushd i/like/icecream
+  220  temp
+  221  pwd
+  222  cd temp
+  223  cd 
+  224  cd temp
+  225  touch iamcool.txt
+  226  ls
+  227  cd
+  228  mkdir icecream
+  229  cd icedcream
+  230  cd icecream
+  231  touch chocolate.txt
+  232  cd ..
+  233  rmdir
+  234  pwd
+  235  ls
+  236  cd icecream
+  237  rmdir icecream
+  238  rmdir ../icecream
+  239  pwd
+  240  cd
+  241  pwd
+  242  cd temp
+  243  cp temp
+  244  pwd
+  245  cd
+  246  pwd
+  247  cd temp
+  248  cp iamcool.txt neat.txt
+  249  ls
+  250  cp neat.txt awesome.txt
+  251  ls
+  252  mkdir something
+  253  cp something/
+  254  git-it verify
+  255  sudo npm install -g git-it
+  256  git-it
+  257  git --version
+  258  git config --global user.name "<Your Name>"
+  259  git config --global user.name "<Malebo>"
+  260  git config --global user.name "Malebo25"
+  261  git config --global user.email "malebomotlhake26@gmail.com"
+  262  git-it verify
+  263  git-it
+  264  mkdir hello-world
+  265  cd hello-word
+  266  cd hello-world
+  267  git init
+  268  git status
+  269  git-it verify
+  270  git-it
+  271  touch readme.txt
+  272  nano readme.txt
+  273  git status
+  274  git add readme.txt
+  275  git d
+  276  git-it verify
+  277  git diff
+  278  nano readme.txt
+  279  git diff
+  280  nano readme.txt
+  281  git diff
+  282  git-it verify
+  283  git-it
+  284  git config --global user.username "Malebo25"
+  285  git-it verify
+  286  git-it
+  287  cd hello world
+  288  cd hello-world
+  289  git remote add origin https://github.com/Malebo25/hello-world.git
+  290  git push origin master
+  291  git-it verify
+  292  git-it
+  293  cd ..
+  294  git clone 095384
+  295  git-t
+  296  git-it 
+  297  git clone 095384
+  298  git clone http://jlord.github.io/patchwork
+  299  ls
+  300  cd projects
+  301  git clone https://github.com/Malebo25/patchwork.git
+  302  cd patchwork
+  303  git remote add upstream https://github.com/Malebo25/patchwork.git
+  304  git-it verify
+  305  git remote add upstream https://github.com/Malebo25/patchwork.git
+  306  git remote add downstream https://github.com/Malebo25/patchwork.git
+  307  git-it verify
+  308  git remote add Upstream https://github.com/Malebo25/patchwork.git
+  309  git-it verify
+  310  git remote add upstream https://github.com/jlord/patchwork.git
+  311  git remote add upstream https://github.com/Malebo25/patchwork.git
+  312  git-it verify
+  313  git remote ^v
+  314  git remote -v
+  315  git remote set-url upstream $ git remote add upstream https://github.com/jlord/patchwork.git
+  316  git remote set-url upstream https://github.com/jlord/patchwork.git
+  317  git remote -v
+  318  git-it verify
+  319  git-it
+  320  git status
+  321  "add Malebo25"
+  322  git branch Malebo25
+  323  git checkout Malebo25
+  324  add-Malebo25.txt
+  325  "add-Malebo25.txt"
+  326  "add-Malebo25"
+  327  git it
+  328  git status
+  329  "add-Malebo25"
+  330  add-Malebo25
+  331  git-it 
+  332  git status
+  333  cd patchwork
+  334  pwd
+  335  cd projects
+  336  pathwork
+  337  patchwork
+  338  cd patchwork
+  339  git status
+  340  "add-Malebo25"
+  341  git branch add-Malebo25
+  342  git branch "add-Malebo25"
+  343  git status
+  344  cd 
+  345  git checkout add-Malebo25
+  346  git checkout "add-Malebo25"
+  347  cd patchwork
+  348  cd
+  349  cd projects
+  350  cd patchwork
+  351  git checkout "add-Malebo25"
+  352  cd projects
+  353  cd patchwork
+  354  git-it
+  355  cd
+  356  ssh-keygen -t ed25519 -C "malebomotlhake26@gmail.com"
+  357  sudo -s -H
+  358  exec ssh-agent zsh
+  359  cd projects
+  360  cd patchwork
+  361  git-it
+  362  git status
+  363  git branch Malebo25
+  364  git checkout Malebo25
+  365  add-Malebo25.txt
+  366  git add-Malebo25.txt
+  367  git Malebo25.txt
+  368  git status
+  369  git "add-Malebo25.txt"
+  370  mkdir "add-Malebo25,txt"
+  371  mkdir "add-Malebo25,txt"
+  372  rmdir "add-Malebo25,txt"
+  373  mkdir "add-Malebo25.txt"
+  374  cd "add-Malebo25.txt"
+  375  nano
+  376  nano "add-Malebo.txt"
+  377  patchwork/contributors/add-Malebo25.txt
+  378  Patchwork/contributors/add-Malebo25.txt
+  379  cd
+  380  cd projects
+  381  cd patchwork
+  382  mkdir contributors
+  383  cd contributors
+  384  cd add-Malebo25.txt
+  385  cd
+  386  cd projects
+  387  cd patchwork
+  388  cd add-Malebo25.txt
+  389  nano add-Malebo25.txt
+  390  cd
+  391  projects/patchwork/contributors/add-Malebo25.txt
+  392  cd projects/patchwork/contributors/add-Malebo25.txt
+  393  cd projects
+  394  cd patchwork
+  395  cd contributors
+  396  cd add-Malebo25
+  397  cd add-Malebo25.txt
+  398  cp add-Malebo25.txt
+  399  cp add-Malebo.txt contributors
+  400  git status
+  401  cd "add-Malebo25.txt"
+  402  cd
+  403  projects
+  404  cd projects
+  405  cd patchwork
+  406  cd "add-Malebo25.txt"
+  407  cd projects
+  408  cd
+  409  cd projects
+  410  cd "add-Malebo25.txt"
+  411  cd patchwork
+  412  mkdir "add-Malebo25.txt"
+  413  rmdir "add-Malebo25.txt"
+  414  cd "add-Malebo25.txt"
+  415  cd
+  416  cd projects/
+  417  cd patchwork
+  418  cd contributors
+  419  cd "add-Malebo25.txt"
+  420  cd
+  421  cd projects
+  422  cd patchwork
+  423  cd Contributors
+  424  cd "add-Malebo25.txt"
+  425  git status
+  426  git add "add-Malebo.txt"
+  427  git add Malebo25
+  428  git add "add-Malebo25.txt"
+  429  git commit -m "great"
+  430  git push origin Malebo25
+  431  cd
+  432  $ cat ~/.ssh/id_ed25519.pub
+  433  ls -al ~/.ssh
+  434  ssh-keygen -t ed25519 -C "malebomotlhake26@gmail.com"
+  435  eval "$(ssh-agent -s)"
+  436  > Agent pid 59566
+  437  eval "$(ssh-agent -s)" > Agent pid 59566
+  438  sudo -s -h
+  439  sudo -s -H
+  440  cd projects
+  441  cd ..
+  442  nano strawberry.txt
+  443  cd icecream
+  444  git clone https://github.com/Malebo25/flavor
+  445  ls
+  446  mv chocolate.txt flavor
+  447  cd flavor
+  448  git status
+  449  git add chocolate.txt 
+  450  git status
+  451  git commit chocolate.txt
+  452  git status
+  453  cd
+  454  mv strawberry.txt icecream/flavor/
+  455  cd icecream/flavor/
+  456  git status
+  457  git add strawberry.txt
+  458  git status
+  459  git commit -m "add strawberry"
+  460  git push origin master
+  461  git push origin main
+  462  git config --global credential.helper store
+  463  git config Malebo25
+  464  git config user.name Malebo25
+  465  git config user.email malebomotlhake26@gmail.com
+  466  git push origin main
+  467  cd
+  468  ssh-keygen -t ed25519 -C "your_email@example.com"
+  469  ssh-keygen -t ed25519 -C "malebomotlhake26@gmail.com"
+  470  eval "$(ssh-agent -s)"
+  471  ssh-add ~/.ssh/id_ed25519
+  472  cd projects
+  473  cd patchwork
+  474  cd Contributors
+  475  cd "add-Malebo25.txt"
+  476  git-it
+  477  status
+  478  git status
+  479  git push origin Malebo25
+  480  cd
+  481  cd projects
+  482  rmdir patchwork
+  483  ls
+  484  rmdir patchwork
+  485  cd Contributors
+  486  git clone git@github.com:Malebo25/patchwork.git
+  487  rmdir patchwork
+  488  cd
+  489  rmdir patchwork
+  490  cd projects
+  491  git clone git@github.com:Malebo25/patchwork.git
+  492  cd patchwork
+  493  mv Contributors patchwork
+  494  cd Contributors
+  495  cd
+  496  mv Contributors projects
+  497  mv CONTRIBUTORS projects
+  498  cd projects
+  499  mv patchwork CONTRIBUTORS
+  500  cd patchwork
+  501  cd CONTRIBUTORS
+  502  mv patchwork projects
+  503  cd patchwork
+  504  git status
+  505  cd projects
+  506  cd
+  507  cd projects
+  508  git branch add-malebo23
+  509  git-it
+  510  git branch "add-malebo23"
+  511  git branch "add-Malebo25"
+  512  cd patchwork
+  513  git status
+  514  git branch "add-malebo23"
+  515  git-it
+  516  git status
+  517  git init
+  518  git status
+  519  git add-malebo23
+  520  git branch add-malebo25
+  521  git branch add-Malebo25
+  522  git branch "add-Malebo25"
+  523  git status
+  524  git branch -M "add-Malebo"
+  525  git-it
+  526  git branch "add-Malebo25"
+  527  cd projects
+  528  cd patchwork
+  529  git-it
+  530  git status
+  531  cd Contributors
+  532  git status
+  533  git branch add-malebo23
+  534  cd
+  535  cd projects
+  536  patchwork
+  537  cd patchwork
+  538  git status
+  539  git branch "add-Malebo25"
+  540  git fetch origin master:master
+  541  cd
+  542  cd projects
+  543  git status
+  544  cd patchwork
+  545  git fetch origin master:master
+  546  git --bare init
+  547  git status
+  548  git branch "add-Malebo25"
+  549  git fetch origin master:master
+  550  git branch "add-Malebo25"
+  551  git status
+  552  git add Contributors
+  553  git branch "add-Malebo25"
+  554  git clone http://githubusername.github.io/repositoryname
+  555  git clone https://github.com/Malebo25/patchwork.git
+  556  cd
+  557  cd projects
+  558  cd patchwork
+  559  git status
+  560  git init
+  561  git status
+  562  git branch add-Malebo25
+  563  git branch
+  564  ls
+  565  pwd
+  566  git checkout -b add-Malebo25
+  567  touch add-Malebo25.txt
+  568  nano add-Malebo25.txt
+  569  mv add-Malebo25.txt ../contributors
+  570  cd contributors
+  571  ls
+  572  cd
+  573  cd projects
+  574  cd patchwork
+  575  ls
+  576  cd contributors
+  577  ls
+  578  touch add-Malebo25.txt
+  579  nano add-Malebo25.txt
+  580  git status
+  581  git add add-Malebo25.txt
+  582  git commit -m "send"
+  583  git push origin add-Malebo25 
+  584  cd ..
+  585  git push origin add-Malebo25 
+  586  git status
+  587  git push origin add-Malebo25 
+  588  git remote -v
+  589  git add remote https://github.com/Malebo25/patchwork.git
+  590  git set-url git@github.com:Malebo25/patchwork.git
+  591  git remote set-url git@github.com:Malebo25/patchwork.git
+  592  git remote set-url origin https://github.com/Malebo25/patchwork.git
+  593  git remote set-url origin git@github.com:Malebo25/patchwork.git
+  594  git pull
+  595  git checkout master
+  596  git branch
+  597  git remote set-url origin https://github.com/Malebo25/patchwork.git
+  598  cd
+  599  projects rm -fr .git
+  600  cd projects
+  601  cd patchwork
+  602  rm -fr .git
+  603  cd
+  604  cd projects
+  605  cd patchwork
+  606  rmdir patchwork
+  607  cd
+  608  cd projects
+  609  rmdir patchwork
+  610  rm -f -r patchwork
+  611  cd patchwork
+  612  rm -f -r Patchwork
+  613  rm -f -r PATCHWORK
+  614  rm -f -r CONTRIBUTORS
+  615  cd projects
+  616  git-it
+  617  git clone git@github.com:Malebo25/patchwork.git
+  618  git init
+  619  git status
+  620  git branch add-Malebo25
+  621  cd patchwork
+  622  git init
+  623  git status
+  624  git branch add-Malebo25
+  625  cd contributors
+  626  git checkout add-Malebo25
+  627  touch add-Malebo25.txt
+  628  nano add-Malebo25.txt
+  629  git status
+  630  git commit -m "send"
+  631  git push origin add-Malebo25
+  632  git-it verify
+  633  git-it
+  634  git-it verify
+  635  git-it
+  636  git remote -v
+  637  git status
+  638  git pull git@github.com:Malebo25/patchwork.git add-Malebo25
+  639  git-it verify
+  640  git-it
+  641  git add add-Malebo25
+  642  git add add-Malebo25.txt
+  643  git commit -m "deliver"
+  644  git push origin add-Malebo25.txt
+  645  git push origin add-Malebo25
+  646  git status
+  647  git-it verify
+  648  git-it
+  649  git checkout gh-pages
+  650  git merge add-Malebo25
+  651  git branch -d add-Malebo25
+  652  git push git@github.com:Malebo25/patchwork.git --delete add-Malebo25
+  653  git pull upstream gh-pages
+  654  git pull upstream gh-pages 
+  655  git init
+  656  git pull upstream gh-pages
+  657  git remote add upstream https://github.com/jlord/patchwork.git
+  658  git pull upstream gh-pages
+  659  git-it verify
+  660  git checkout gh-pages
+  661  git merge add-Malebo25
+  662  cd patchwork
+  663  cd
+  664  cd projects
+  665  cd patchwork
+  666  git remote add upstream https://github.com/jlord/patchwork.git
+  667  cd contributors
+  668  git pull upstream gh-pages
+  669  git-it verify
+  670  git merge add-Malebo25
+  671  git-it verify
+  672  git pull gh-pages
+  673  git checkout gh-pages
+  674  git merge gh-pages
+  675  git pull upstream gh-pages
+  676  git-it verify
+  677  git checkout pull upstream gh-pages
+  678  git checkout upstream gh-pages
+  679  git remote -v
+  680  git verify
+  681  git-it verify
+  682  cd
+  683  cd projects
+  684  kmdir images
+  685  mkdir images
+  686  cd images
+  687  mv d6.jpeg
+  688  mv d6.jpeg images
+  689  cd projects
+  690  cd basic_website
+  691  ls
+  692  git status
+  693  git add .
+  694  git status
+  695  git rm .vscode/settings.json 
+  696  git status
+  697  git rm --cached .vscode/settings.json 
+  698  git status
+  699  git commit -m "adding some responsiveness"
+  700  git branch gh-pages
+  701  git checkout gh-pages
+  702  git push origin gh-pages
+  703  git branch -d master
+  704  eval 'ssh-agent'
+  705  git push origin gh-pages
+  706  cat ~/.ssh/id_ed25519.pub
+  707  git push origin gh-pages
+  708  ssh-keygen -t ed25519 -C malebomotlhake26@gmail.com
+  709  eval "$(ssh-agent -s)"
+  710  ssh-add ~/.ssh/id_ed25519
+  711  ssh-keygen -t ed25519-sk -C malebomotlhake26@gmail.com
+  712  cat ~/.ssh/id_ed25519.pub
+  713  git status
+  714  git push origin gh-pages
+  715  git status
+  716  git add .
+  717  git status
+  718  git rm --cached .vscode/settings.json 
+  719  git status
+  720  git commit -m "center-alignement"
+  721  git branch gh-pages
+  722  git checkout gh-pages
+  723  git push origin gh-pages
+  724  git statuss
+  725  git status
+  726  git add
+  727  git add .
+  728  git rm --cached .vscode/setti
+  729  git status
+  730  git rm --cached .vscode/settings.json
+  731  git status
+  732  git commit -m "changed font and responsiveness"
+  733  git checkout gh-pages
+  734  git push origin gh-pages
+  735  git status
+  736  git add .
+  737  git commit -m "full responsiveness"
+  738  git checkout gh-pages
+  739  git push origin gh-pages
+  740  git status
+  741  git add .
+  742  git status
+  743  git commit -m "changed font color"
+  744  git add .
+  745  git status
+  746  git add .
+  747  git status
+  748  git add .
+  749  git status
+  750  git commit -m "changing fonts"
+  751  git push origin gh-pages
+  752  rm -r ~/.ssh
+  753  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  754  ssh-keygen -t rsa -b 4096 -C "malebomotlhake26@gmai.com"
+  755  cat ~/.ssh/id_rsa.pub 
+  756  cd projects
+  757  cd basic_website/
+  758  git status
+  759  git add .
+  760  git commit -m "resized images"
+  761  git push origin gh-pages
+  762  git status
+  763  git add .
+  764  git commit -m "landing page"
+  765  git push origin gh-pages
+  766  git status
+  767  rm -rf grid/.git/
+  768  git status
+  769  git add .
+  770  git commit -m "organised folders"
+  771  git status
+  772  git status
+  773  git commit -m "responsiveness"
+  774  git push origin gh-pages
+  775  cd projects
+  776  cd basic_website
+  777  git status
+  778  git add .
+  779  git commit -m "changing colors"
+  780  git push origin gh-pages
+  781  cd projects
+  782  git clone https://github.com/Malebo25/dom-intro.git
+  783  cd dom-intro
+  784  git status
+  785  git add .
+  786  git commit -m "calculate bill and text-bill widget"
+  787  git push origin gh-pages
+  788  ssh-keygen -t ed25519 -C "malebomotlhake26@gmail.com"
+  789  ssh-add ~/.ssh/id_ed25519
+  790  cat ~/.ssh/id_ed25519.pub
+  791  git push origin gh-pages
+  792  git status
+  793  git push origin gh-pages
+  794  ssh-keygen -t ed25519 -C "malebomotlhake26@gmail.com"
+  795  ssh-add ~/.ssh/id_ed25519
+  796  cat ~/.ssh/id_ed25519.pub
+  797  git push origin gh-pages
+  798  git remote -v
+  799  git remote set-url origin git@github.com:Malebo25/dom-intro.git
+  800  git remote -v
+  801  git push origin gh-pages
+  802  ssh-keygen -t ed25519 -C "malebomotlhake26@gmail.com"
+  803  git push origin gh-pages
+  804  git status
+  805  git push origin gh-pages
+  806  yum repolist all
+  807  yum install java-11-openjdk-devel
+  808  apt-cache search openjdk
+  809  sudo apt install openjdk-17-jre openjdk-17-jdk
+  810  sudo dpkg --configure -a
+  811  javac trr.java
+  812  sudo apt install default-jdk
+  813  apt --fix-broken install
+  814  yes
+  815  sudo apt update
+  816  sudo apt install vim apt-transport-https curl wgetsoftware-properties-common
+  817  javac Task1.java
+  818  cd desktop
+  819  ls
+  820  cd desktop
+  821  desktop
+  822  cd Desktop
+  823  ls
+  824  cd dom-intro
+  825  git status
+  826  git init
+  827  git status
+  828  git remote add origin git@github.com:Malebo25/dom-intro-unit-tests.git
+  829  cd projects
+  830  ls
+  831  cd dom-intro-unit-tests
+  832  git init
+  833  git add .
+  834  git commit "initial commit"
+  835  git remote add origin git@github.com:Malebo25/dom-intro-unit-tests.git
+  836  git branch gh-pages
+  837  git checkout gh-pages
+  838  git push origin gh-pages
+  839  git status
+  840  git add .
+  841  git commit -m "remove foward slashes"
+  842  git push origin gh-pages
+  843  git status
+  844  git add .
+  845  git commit -m "calculate bill test"
+  846  git push origin gh-pages
+  847  cd/
+  848  cd ..
+  849  cd fruit-eater-widget
+  850  git init
+  851  git add .
+  852  git commit "initial commit"
+  853  git commit -m "initial commit"
+  854  git remote add origingit@github.com:Malebo25/fruit-eater-widget.git
+  855  git remote add origin git@github.com:Malebo25/fruit-eater-widget.git
+  856  git branch gh-pages
+  857  git checkout gh-pages
+  858  git push origin gh-pages
+  859  cd projects
+  860  cd fruiteater.test
+  861  ls
+  862  cd fruitEater.test
+  863  git init
+  864  git add .
+  865  git commit -m "initial commit"
+  866  git remote add origin git@github.com:Malebo25/fruit-eater-test.git
+  867  git branch gh-pages
+  868  git checkout gh-pages
+  869  git push origin gh-pages
+  870  cd projects
+  871  ls
+  872  cd greetings
+  873  git init
+  874  git add .
+  875  git commit -m "initial commit"
+  876  git remote add origin git@github.com:Malebo25/greetings.git
+  877  git branch gh-pages
+  878  git checkout gh-pages
+  879  git status
+  880  git add .
+  881  git commit "remove file slashes"
+  882  git commit -m "remove file slashes"
+  883  git push origin gh-pages
+  884  cd projects
+  885  cd registration_numbers
+  886  git init
+  887  git add
+  888  git add .
+  889  git commit -m "initial commit"
+  890  git remote add origingit@github.com:Malebo25/registration_numbers.git
+  891  git remote add origin git@github.com:Malebo25/registration_numbers.git
+  892  git branch gh-pages
+  893  git checkout gh-pages
+  894  git push origin gh-pages
+  895  cd projects
+  896  git clone git@github.com:Malebo25/taxi-queue-app.git
+  897  git clone git@github.com:Malebo25/electricity-app.git
+  898  cd projects
+  899  cd electricity-app
+  900  git status
+  901  git branch gh-pages
+  902  git checkout gh-pages
+  903  git status
+  904  git add .
+  905  git status
+  906  git commit -m "Test , Dom and local storage initial commit"
+  907  git push origin gh-pages
+  908  cd projects
+  909  cd bus-travel-widget
+  910  git init
+  911  git add .
+  912  git commit -m "initial commit"
+  913  git remote add origin git@github.com:Malebo25/bus-travel-widget.git
+  914  git branch gh-pages
+  915  git checkout gh-pages
+  916  git push origin gh-pages
+  917  cd projects
+  918  git clone git@github.com:Malebo25/hackathon-github-warmup.git
+  919  cd hackathon-github-warmup
+  920  cd projects
+  921  cd Art-museum-hackathon
+  922  cd Art-Museum-hackathon
+  923  git merge
+  924  git status
+  925  git add .
+  926  git status
+  927  git merge
+  928  cd projects
+  929  cd Art-museum-hackathon
+  930  cd Art-Museum-hackathon
+  931  git status
+  932  git add .
+  933  git status
+  934  git commit -m "adding user's current location"
+  935  git push
+  936  git pull
+  937  git status
+  938  git add
+  939  git add .
+  940  git status
+  941  git commit -m "factory code order modification"
+  942  git push origin master
+  943  cd projects
+  944  cd ../
+  945  cd
+  946  cd projects
+  947  ls
+  948  git clone git@github.com:lasity34/Art-Museum-hackathon.git
+  949  cd Desktop
+  950  ls
+  951  git clone git@github.com:lasity34/Art-Museum-hackathon.git
+  952  git status
+  953  git init
+  954  git remote add origin  git@github.com:lasity34/Art-Museum-hackathon.git
+  955  git remote -v
+  956  git status
+  957  ls
+  958  cd Art-Museum-hackathon
+  959  ls
+  960  git status
+  961  git init
+  962  git status
+  963  git remote add origin  git@github.com:lasity34/Art-Museum-hackathon.git
+  964  git remote -v
+  965  git pull
+  966  git pull origin master
+  967  git merge
+  968  git merge master
+  969  git merge origin
+  970  cd ../
+  971  cd
+  972  cd Desktop
+  973  git clone https://github.com/lasity34/Art-Museum-hackathon.git
+  974  cd git-basic-exercises
+  975  ls -a
+  976  git init
+  977  git ls-a
+  978  ls -a
+  979  touch README.md
+  980  ls -a
+  981  git status
+  982  git log
+  983  git add .
+  984  git status
+  985  git rm --cached README.md...
+  986  git rm --cached README.md
+  987  git status
+  988  git add .
+  989  git commit -m "initial commit"
+  990  git log
+  991  nano README.md
+  992  ls
+  993  ls -a
+  994  cat README.md
+  995  git status
+  996  git add .
+  997  git commit -m "second commit"
+  998  cat README.md
+  999  nano README.md
+ 1000  cat README.md
+ 1001  git commit -m "more stuff"
+ 1002  git commit -m "third commit"
+ 1003  gi log
+ 1004  git log
+ 1005  q
+ 1006  git checkout 979b694ed7302104e82edd9573509977744cab27
+ 1007  cat README.md
+ 1008  git checkout main
+ 1009  git status
+ 1010  git checkout main
+ 1011  git checkout master
+ 1012  cat README.md
+ 1013  git branch 
+ 1014  git branch main
+ 1015  git status
+ 1016  git checkout main
+ 1017  git branch  milkshake-flavors
+ 1018  git branch
+ 1019  git checkout milkshake-flavors
+ 1020  git branch
+ 1021  nano milkshakes.md
+ 1022  git status
+ 1023  git add .
+ 1024  git commit -m "added milkshake flavors"
+ 1025  git log
+ 1026  git checkout main
+ 1027  git branch history
+ 1028  git checkout history
+ 1029  git log
+ 1030  git branch
+ 1031  history>history.txt
